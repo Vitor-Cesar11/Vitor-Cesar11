@@ -8,4 +8,3 @@
 Vitor-Cesar11/Vitor-Cesar11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-- Neste projeto, simulei um modelo de projeção do consumo de cerveja utilizando conceitos de modelagem estatística como Regressão Linear, passando por toda uma pipeline do problema e desembocando em um modelo preditivo baseado na correlação entre variáveis como temparatura do dia, dias da semana e informações pluviométricas.
